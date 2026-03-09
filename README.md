@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on -  C Language<br>👯 I’m looking to collaborate on - To tech companies<br>🤝 I’m looking for help with - Good Roadmap for getting hired by FAANG Companies<br>🌱 I’m currently learning C language<br>💬 Ask me about I am 1st year student at PPSU(Sem2) 
+Computer Science student passionate about building things and learning how the web works. Currently exploring full-stack development and sharpening my problem-solving skills one project at a time. Always open to collaborating and growing.
 
 
 
