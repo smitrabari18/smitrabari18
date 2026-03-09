@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student passionate about building things and learning how the web works. Currently exploring full-stack development and sharpening my problem-solving skills one project at a time. Always open to collaborating and growing.
+## Computer Science student passionate about building things and learning how the web works. Currently exploring full-stack development and sharpening my problem-solving skills one project at a time. Always open to collaborating and growing. ##
 
 
 
